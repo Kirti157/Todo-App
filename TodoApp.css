@@ -1,0 +1,61 @@
+
+*{
+    text-align: center;
+  
+}
+ol{
+    font-family: cursive;
+    position: absolute;
+    margin-left: 38%;
+    line-height: 30px;
+    font-weight:900 ;
+    font-size: 17px;
+    background-color:#BCECE0;
+    border: 3px dashed #4C5270;
+    padding: 30px;
+
+}
+
+.Delete{
+    font-family: cursive;
+    font-weight:bold ;
+    font-size: 15px;
+    color: white;
+    background-color: darkred;
+    border-radius: 5px;
+}
+.addtask{
+    font-family: cursive;
+    font-weight:bold ;
+    font-size: 20px;
+    color: white;
+    background-color: darkgreen;
+    border-radius: 5px;
+}
+button:hover{
+  opacity: 0.8;  
+  transform: scale(1.01);
+} 
+input{  font-family: cursive;
+    border: 2px solid rgb(0, 0, 0);
+    color: #4C5270;
+    font-size: 18px;
+    border-radius: 4px;
+}
+h1{
+    font-family: cursive;
+    color: #FA26A0;
+    background-color:#2FF3E0 ;
+}
+.body{
+    background-color:#F8D210;
+    padding: 4px;
+    margin: 10px;
+}
+.main{
+    position: absolute;
+    margin-left:20% ;
+    height: 700px;
+    width: 900px;
+    background-color: aqua;
+}
